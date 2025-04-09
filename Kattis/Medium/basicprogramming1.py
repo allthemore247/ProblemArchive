@@ -6,7 +6,7 @@ CPU Time Limit: 1 second
 Difficulty: 1.2 - 4.5 (Medium)
 '''
 
-# current issues: tle on some later problems
+# current issues: tle on some later problems, likely due to t == 7
 
 import statistics
 
